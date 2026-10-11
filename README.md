@@ -1,4 +1,4 @@
-# Electiva Profesional I
+# Electiva Profesional II
 
 Este repositorio contiene un notebook de práctica para aprender a importar, inspeccionar y manipular datos con Python y `pandas`.
 
